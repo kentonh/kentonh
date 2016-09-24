@@ -1,0 +1,16 @@
+/*Man, the Bootstrap team should really have fixed this in v3*/
+
+@media print {
+  .header{
+    width: 100%;
+  }
+  .col-md-9{
+    width: 70%;
+    float: right;
+  }
+  .col-md-3{
+    width: 30%;
+    float: left;
+    padding-left: none;
+  }
+}

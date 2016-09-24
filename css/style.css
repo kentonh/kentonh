@@ -18,7 +18,9 @@ p{
 }
 
 hr{
-  border: 2px #000;
+  border: 0;
+  height: 2px;
+  background: #000;
 }
 
 .header{
