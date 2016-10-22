@@ -2,7 +2,7 @@ body{
   background: linear-gradient(
     to bottom,
     #ADD8E6 0px,
-    #ADD8E6 110px,
+    #ADD8E6 115px,
     #ffffff 115px,
     #ffffff 100%
     );
@@ -23,6 +23,10 @@ hr{
   background: #000;
 }
 
+ul{
+  line-height: 2.5em;
+}
+
 .header{
   margin: 50px auto 10px;
 }
@@ -37,6 +41,17 @@ hr{
   padding: 10px;
 }
 
+.content a{
+  color: #333;
+  padding: .5%;
+  background: linear-gradient(
+    to bottom,
+    #fff 0px,
+    #fff 50%,
+    #ADD8E6 50%,
+    #ADD8E6 100%
+    )
+}
 .content h5{
   padding-left: 2px;
 }
