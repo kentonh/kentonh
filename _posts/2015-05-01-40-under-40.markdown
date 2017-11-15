@@ -1,0 +1,9 @@
+---
+layout: post
+title: "2015 Class of 40 Under 40"
+date: 2015-05-01 13:32:20 +0600
+description:  # Add post description (optional)
+img: 40under40.png # Add image post (optional)
+---
+
+Along with 39 of my peers, I was named to the Wichita Business Journal [2015 40 Under 40 class.](https://www.bizjournals.com/wichita/slideshow/2015/05/01/meet-the-entire-40-under-40-class-of-2015.html#g19)
