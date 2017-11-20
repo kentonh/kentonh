@@ -19,6 +19,23 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  background: linear-gradient(
+    to bottom,
+    #fff 0px,
+    #fff 50%,
+    #ADD8E6 50%,
+    #ADD8E6 100%);
+}
+
+.wrap-content a {
+  color: #333;
+  padding: .5%;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.15;
+}
+
 h1 {
   font-weight: 400;
 }
@@ -133,12 +150,6 @@ table tfoot td {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 @import 'parts/post-page';
 
-a {
-  color: #fafafa;
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 1.15;
-}
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 @import 'parts/tag';
 

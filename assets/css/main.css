@@ -781,6 +781,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  background: -webkit-linear-gradient(top, #fff 0px, #fff 50%, #ADD8E6 50%, #ADD8E6 100%);
+  background: -o-linear-gradient(top, #fff 0px, #fff 50%, #ADD8E6 50%, #ADD8E6 100%);
+  background: linear-gradient(to bottom, #fff 0px, #fff 50%, #ADD8E6 50%, #ADD8E6 100%);
+}
+
+.wrap-content a {
+  color: #333;
+  padding: .5%;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.15;
+}
+
 h1 {
   font-weight: 400;
 }
@@ -797,6 +811,13 @@ blockquote {
   margin-left: 1rem;
   font-style: italic;
   color: #ada8a8;
+}
+
+.post-to-home {
+  color: #a0a0a0;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.15;
 }
 
 pre {
@@ -1241,6 +1262,7 @@ a.newer-posts:hover {
   display: inline-block;
   text-decoration: none;
   background-color: #fafafa;
+  background: #fafafa;
   border: 1px solid #ecf0f1;
   padding: 5px 10px;
   margin-left: 5px;
@@ -1261,6 +1283,7 @@ a.newer-posts:hover {
 
 .page-footer .page-tag a {
   text-decoration: none;
+  background: #fafafa;
   font-size: 10px;
   padding: 5px 10px;
   margin-left: 5px;
@@ -1310,6 +1333,7 @@ a.newer-posts:hover {
   padding: 5px 10px;
   border: 1px solid #ecf0f1;
   background-color: #fafafa;
+  background: #fafafa;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s;
