@@ -1,0 +1,28 @@
+---
+layout: post
+title: Content Highlights from BalancedComp
+date: 2014-10-10 00:00:00 +0600
+description: # Add post description (optional)
+img: basketball.jpg # Add image post (optional)
+tags: [Work, Marketing] # add tag
+---
+## Relevant and Compelling Content
+The challenge with marketing a B2B SaaS product is that the subject matter can be very dry. When your audience is interested in connecting with your product on an emotional level, like we found BalancedComp clients do, we worked diligently to offer warm, welcoming, open communication.
+
+Below are a few examples where I was exceptionally proud of the result.
+
+### [National High Five Day](http://balancedcomp.com/posts/high-five)
+We found that most of our clients felt under appreciated. With this brief video (shot on an iPhone 6 and edited with iMovie), we wanted to make our clients feel appreciated on a random holiday. This post received more than 300% increased engagement from our mailing list.
+[Read the post](http://balancedcomp.com/posts/high-five)
+
+### [What Color Is This Dress?](http://balancedcomp.com/posts/what-color-is-this-dress)
+Capitalizing on the meme of the moment, we wrote about the infamous "dress" and how perspective changes the way we see things. This novel take produced 157% more clicks than an average email. [Read the post](http://balancedcomp.com/posts/what-color-is-this-dress)
+
+### [2014 Year In Review](http://balancedcomp.com/posts/2014-year-in-review)
+[Read the post](http://balancedcomp.com/posts/2014-year-in-review)
+
+### [International Picnic Day](http://balancedcomp.com/posts/international-picnic-day)
+[Read the post](http://balancedcomp.com/posts/international-picnic-day)
+
+### [Gregg Marshall Madness](http://balancedcomp.com/posts/gregg-marshall-maddness)
+[Read the post](http://balancedcomp.com/posts/gregg-marshall-maddness)

@@ -3,6 +3,9 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
+    <div class="post-to-home">
+      <a class="post-to-home" href="/"><i class="fa fa-arrow-left" aria-hidden="true"></i> Back</a>
+    </div>
     {% if page.img %}
     <div class="page-cover-image">
       <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
@@ -27,7 +30,7 @@ layout: main
           {% endfor %}
         </div>
       </div>
-      <!-- {% include disqus.html %} -->
+      <!-- {% include disqus.html %}
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->

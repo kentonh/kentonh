@@ -1,0 +1,23 @@
+---
+layout: post
+title: Filimin - touch lights that connect you with those you love.
+date: 2015-04-21 00:00:00 +0600
+description: # Add post description (optional)
+img: filimin.jpg # Add image post (optional)
+tags: [Work, Projects] # add tag
+---
+## About the Project
+In early 2015, I first saw the Filimin Prototype. It was at a mixer co-hosted by devICT, Make ICT, and Startup Wichita. John Harrison made the system as a way to keep his family closer. While they were spread throughout the world, they often didn't have time to speak, and he wanted a way to share love in a non-intrusive way.
+
+As soon as I saw them I knew this was a marketable product, mainly because I wanted to buy them. John and I talked about how we could make it a reality for everyone, and not just me. I helped put together a team to bring the project to market.
+
+We decided that [Kickstarter](https://www.kickstarter.com/projects/johnharrison/filimin-a-wi-fi-enabled-touch-light-that-connects) would be the best market to reduce startup costs, and leverage sharing. Soon after launch we received a _Staff Pick_ from Kickstarter, and became the highest grossing Kickstarter Campaign from Kansas, surpassed in 2016.
+
+## My Contribution
+I used my skills of project management to organize the various members of the team, create and orchestrate the marketing and PR, and roadmap the product development from a software and hardware perspective.
+
+## Growth
+
+Since the Kickstarter success, the first round of lights have been shipped to all backers and pre-orders. Now, Filimin is carried exclusively by [Uncommon Goods](https://www.uncommongoods.com/product/long-distance-touch-lamp).
+
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/ze0Pzd6LMbA?wmode=transparent&autoplay=0&amp;rel=0" width="100%" height="500px"></iframe>

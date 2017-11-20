@@ -37,6 +37,13 @@ blockquote {
   color: #ada8a8;
 }
 
+.post-to-home {
+  color: $dark-gray;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.15;
+}
+
 pre {
   padding: 1rem 2rem;
   overflow-x: auto;
@@ -126,6 +133,12 @@ table tfoot td {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 @import 'parts/post-page';
 
+a {
+  color: #fafafa;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.15;
+}
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 @import 'parts/tag';
 
