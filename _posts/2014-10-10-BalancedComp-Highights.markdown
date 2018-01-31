@@ -22,6 +22,7 @@ Capitalizing on the meme of the moment, we wrote about the infamous "dress" and 
 [Read the post](http://balancedcomp.com/posts/2014-year-in-review)
 
 ### [International Picnic Day](http://balancedcomp.com/posts/international-picnic-day)
+When I joined, the balancedComp brand had a tone and voice, but didn't write content that was in harmony. Based on the success of the High Five Day post, i wrote to reinforce the self-care message, and made a post with downloadable resources to take one lunch break off.
 [Read the post](http://balancedcomp.com/posts/international-picnic-day)
 
 ### [Gregg Marshall Madness](http://balancedcomp.com/posts/gregg-marshall-maddness)
