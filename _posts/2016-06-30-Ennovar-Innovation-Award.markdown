@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enovar Recognized with 2016 Innovation Award
+title: Ennovar Recognized with 2016 Innovation Award
 date: 2016-06-30 00:00:00 +0300
 description: # Add post description (optional)
 img: ennovar-innovation.png # Add image post (optional)
