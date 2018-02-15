@@ -1,34 +1,21 @@
 ---
 layout: post
 title: Talent On Parade Administration System
-date: 2017-02-21 00:00:00 +0300
+date: 2013-03-21 00:00:00 +0300
 description:  # Add post description (optional)
 img: TOP-registration.png # Add image post (optional)
 tags: [Projects, Work] # add tag
 ---
 
-## In March 2014
-James Steck is a professor of Aeronautical Engineering at Wichita State University. He had an idea to support the Shocker Men's Basketball team with an app that animate the crowd. The first implementation was a simple HTML file with a timed JavaScript color changer. However at Ennovar, my team and I wanted make a larger leap.
+## Incremental Progress
+In 2006, I helped Talent On Parade with the technical hurdles of accepting electronic payments through a mobile connection. At that point, it was not as simple as signing up for a Square account.
 
-## It's so simple
+Through that process, I also recognized the potential efficiencies to be gained by automating their processes and moving away from paper. I worked with the team there to start with accepting entries over the internet and integrating electronic payments over checks via mail.
 
-...or so we thought. We started with research into the best way to detect location information from the user device. GPS signal was too week to penetrate the arena architecture. Next, we tried to use a standard location, but update the device display based on time and the compass direction the user was facing. The device compass was not accurate enough and users like to move too much for this to be effective in a crowd of 15,000.
+Over the course of 5 years, the scope of the software grew from just order taking, to include studio and dancer management, event scheduling, judging/tabulation, and awards.
 
-Finally, we decided to use seat numbers to locate each user in the arena. With openCV and Python, we dissected each frame to create the animation as an image. The result produces a JSON array of color and time duration for an X,Y coordinate on a grid. With a CAD seating arena chart, we were able to translate the Section, Row, and Seat numbers for each user to the corresponding X,Y value in our database, and deliver the "seat pixels" to each device.
+## The System
 
-## Timing is everything
+The company was based on a season that lasted 8 months of the year, so any changes we needed to implement had to be done on an annual basis. This also left very narrow windows for functional testing with actual users. While much of the work could have been pushed to production much faster, we opted for larger yearly updates before the season started.
 
-We expected each device to have near identical time across every network. Our assumption was that we could start the animations on all devices based on a simple time sync, but even among identical devices, system time could vary by as much as 40 seconds.
-
-This meant that we needed to create our own syncing system. We did this by passing a timestamp from the device to our server, coupling it with a second timestamp from our server, then passing the couple back to the device. The device would use an algorythem to determine a time shift from our `fixed point of time truth`, and adjust the starting time of the animation by that number of milliseconds.
-
-## The real world
-
-We were able to test the system at scale in some of the last basketball games of the Shocker's 2016-2017 season. While we had success with our technology, the lighting system was not cooperative.
-In November, 2017 we were able to use the app with a new arena lighting system that allowed the arena to go dark. This let the devices show with more clarity.
-
-## Local News
-
-In February, 2017 Wichita news station KWCH covered the early tests and development of the software.
-
-<iframe src='http://www.kwch.com/templates/2015_Sub_Video_Share?contentObj=414411933' width='970' height='520' frameborder='0' scrolling='no' style='max-width:100%'></iframe>
+Additionally, the end users were mostly "tech averse," meaning while this work made the competition more efficient, the software was met with suspicion. We worked with the Talent On Parade team to mitigate those concerns with simple, frictionless UI.
