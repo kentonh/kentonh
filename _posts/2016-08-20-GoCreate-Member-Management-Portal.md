@@ -3,7 +3,7 @@ layout: post
 title: GoCreate.com and member management tool
 date: 2018-02-21 00:00:00 +0300
 description:  # Add post description (optional)
-img: assets/img/gocreate.jpg # Add image post (optional)
+img: gocreate.jpg # Add image post (optional)
 tags: [Projects, Work, News] # add tag
 ---
 
