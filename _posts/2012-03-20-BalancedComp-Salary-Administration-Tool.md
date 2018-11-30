@@ -1,11 +1,13 @@
 ---
-layout: post
 title: BalancedComp Salary Administration SaaS
-date: 2012-03-21 00:00:00 +0300
-description:  # Add post description (optional)
-img: BC-screenshot.jpg # Add image post (optional)
-tags: [Projects, Work] # add tag
+date: 2012-03-20 21:00:00 Z
 published: false
+tags:
+- Projects
+- Work
+layout: post
+description: 
+img: BC-screenshot.jpg
 ---
 
 ## Salary Administration

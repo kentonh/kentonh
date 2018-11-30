@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Talent On Parade Administration System
-date: 2013-03-21 00:00:00 +0300
-description:  # Add post description (optional)
-img: TOP-registration.png # Add image post (optional)
-tags: [Projects, Work] # add tag
+date: 2013-03-20 21:00:00 Z
+tags:
+- Projects
+- Work
+layout: post
+description: 
+img: TOP-registration.png
 ---
 
 ## Incremental Progress

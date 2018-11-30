@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Distinguished Scholar Invitational Software
-date: 2116-11-15 00:00:00 +0300
-description:  # Add post description (optional)
-img: http://lorempixel.com/975/730/ # Add image post (optional)
-tags: [Projects, Work, News] # add tag
+date: 2116-11-14 21:00:00 Z
 published: false
+tags:
+- Projects
+- Work
+- News
+layout: post
+description: 
+img: http://lorempixel.com/975/730/
 ---
 
 ## Wichita State Admissions holds

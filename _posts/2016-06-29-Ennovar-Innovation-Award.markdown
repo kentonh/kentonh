@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Ennovar Recognized with 2016 Innovation Award
-date: 2016-06-30 00:00:00 +0300
-description: # Add post description (optional)
-img: ennovar-innovation.png # Add image post (optional)
-tags: [Awards, News] # add tag
+date: 2016-06-29 21:00:00 Z
+tags:
+- Awards
+- News
+layout: post
+description: 
+img: ennovar-innovation.png
 ---
 
 > Wichita State University has adopted a movement toward innovation and experiential learning.

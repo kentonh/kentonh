@@ -1,10 +1,13 @@
 ---
-layout: post
 title: People Pixel
-date: 2017-02-21 00:00:00 +0300
-description:  # Add post description (optional)
-img: peoplepixel.jpg # Add image post (optional)
-tags: [Projects, Work, News] # add tag
+date: 2017-02-20 21:00:00 Z
+tags:
+- Projects
+- Work
+- News
+layout: post
+description: 
+img: peoplepixel.jpg
 ---
 
 ## In March 2014

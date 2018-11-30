@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Find Slack DMs even if you forgot who they came from.
-date: 2018-03-02 00:13:00 -0600
-description:  # Add post description (optional)
-img: slack_plaid.png # Add image post (optional)
-tags: [Posts] # add tag
-published: true
+date: 2018-03-02 06:13:00 Z
+tags:
+- Posts
+layout: post
+description: 
+img: slack_plaid.png
 ---
 
 ## Who was that from again?

@@ -1,35 +1,38 @@
+---
 title: Oh, Hello. I'm Kenton Hansen.
-description: I make things. I make people make things. You might know me from Startup Wichita, the Labor Party, or some other place.
-
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: kentonh #if your site has a twitter account, enter it here
-
-# Author Settings
-author: Kenton Hansen # add your name
-author-img: kenton_thumb.jpg # add your photo
-about-author: I make things. I make people make things. Mostly digital things. # add description
-twitter: kentonh # add your Twitter handle
-facebook: # add your Facebook handle
-github: kentonh # add your Github handle
-linkedin: kentonh # add your Linkedin handle
-email: himself@kentonhansen.com # add your Email address
-
-# Disqus
-discus-identifier: # add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
-
-# Build Settings
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: I make things. I make people make things. You might know me from Startup
+  Wichita, the Labor Party, or some other place.
+permalink: ":title/"
+baseurl: ''
+url: ''
+site-twitter: kentonh
+author: Kenton Hansen
+author-img: kenton_thumb.jpg
+about-author: I make things. I make people make things. Mostly digital things.
+twitter: kentonh
+facebook: 
+github: kentonh
+linkedin: kentonh
+email: himself@kentonhansen.com
+discus-identifier: 
+analytics: 
 markdown: kramdown
 plugins_dir:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
-
+- jekyll-sitemap
+- jekyll-paginate
+- jemoji
 paginate: 8
 paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
+- yarn.lock
