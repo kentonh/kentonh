@@ -11,8 +11,8 @@ collections:
 description: I make things. I make people make things. You might know me from Startup
   Wichita, the Labor Party, or some other place.
 permalink: ":title/"
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 site-twitter: kentonh
 author: Kenton Hansen
 author-img: kenton_thumb.jpg
