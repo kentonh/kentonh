@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Content Highlights from BalancedComp
-date: 2014-10-10 00:00:00 +0600
-description: # Add post description (optional)
-img: basketball.jpg # Add image post (optional)
-tags: [Work, Marketing] # add tag
+date: 2014-10-09 18:00:00 Z
+tags:
+- Work
+- Marketing
+layout: post
+description: 
+img: basketball.jpg
 ---
+
 ## Relevant and Compelling Content
 The challenge with marketing a B2B SaaS product is that the subject matter can be very dry. When your audience is interested in connecting with your product on an emotional level, like we found BalancedComp clients do, we worked diligently to offer warm, welcoming, open communication.
 

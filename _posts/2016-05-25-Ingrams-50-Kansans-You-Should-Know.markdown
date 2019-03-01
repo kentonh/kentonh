@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Named to Ingram's Magazine 2016 50 Kansans You Should Know
-date: 2016-05-25 13:32:20 +0600
-description: # Add post description (optional)
-img: ingrams.png # Add image post (optional)
-tags: [News, Awards]
+date: 2016-05-25 07:32:20 Z
+tags:
+- News
+- Awards
+layout: post
+description: 
+img: ingrams.png
 ---
 
 ## "The heart of Kansas isn’t a person, place or thing: It’s the collection of people who make it work."

@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Filimin - touch lights that connect you with those you love.
-date: 2015-04-21 00:00:00 +0600
-description: # Add post description (optional)
-img: filimin.jpg # Add image post (optional)
-tags: [Work, Projects] # add tag
+date: 2015-04-20 18:00:00 Z
+tags:
+- Work
+- Projects
+layout: post
+description: 
+img: filimin.jpg
 ---
+
 ## About the Project
 In early 2015, I first saw the Filimin Prototype. It was at a mixer co-hosted by devICT, Make ICT, and Startup Wichita. John Harrison made the system as a way to keep his family closer. While they were spread throughout the world, they often didn't have time to speak, and he wanted a way to share love in a non-intrusive way.
 
