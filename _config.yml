@@ -25,6 +25,8 @@ email: himself@kentonhansen.com
 discus-identifier:
 analytics:
 markdown: kramdown
+plugins:
+- jekyll-paginate
 plugins_dir:
 - jekyll-sitemap
 - jekyll-paginate
