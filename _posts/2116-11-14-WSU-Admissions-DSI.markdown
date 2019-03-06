@@ -16,4 +16,10 @@ img: 'http://lorempixel.com/975/730/'
 ---
 
 ## Distinguished Scholar Invitational
-Each year, Wichita State Admissions Department holds an day of group evaluations for a series of scholarships. This event hosts hundreds of graduating seniors and dozens of honored evaluators. As recently as 2015, all of these evaluations had been done on paper. In 2016, Ennovar Software designed and developed a web-based application
+Each year, Wichita State Admissions Department holds an day of group evaluations for a series of scholarships. This event hosts hundreds of graduating high school seniors and dozens of honored evaluators. As recently as 2015, all of these evaluations had been done on paper. In 2016, Ennovar Software designed and developed a web-based application to streamline the process of capturing and analyzing the evaluations.
+
+
+## Archetecture
+The app was built in two sections, a front end with React.js and a Ruby back end. The two were connected via API, and served through two different servers.
+
+This was a event based, time critical tool. It was only going to be used for 10 hours per year. In order to ensure access, we built the software with a multiple caches to store data locally to prevent data loss in the event of network or connection errors.
