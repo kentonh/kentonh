@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Need a code name for your new project?
-date: 2019-02-28 00:00:00 +0300
-description:  # Add post description (optional)
-img: prjctnamr.png # Add image post (optional)
-tags: [Projects, Work, Fun] # add tag
+date: 2019-02-27 21:00:00 Z
+tags:
+- Projects
+- Work
+- Fun
+layout: post
+description: 
+img: prjctnamr.png
 ---
 
 ## [See the Project](https://kentonh.github.io/ProjectNameGenerator/)

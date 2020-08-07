@@ -11,19 +11,19 @@ collections:
 description: I make things. I make people make things. You might know me from Startup
   Wichita, the Labor Party, or some other place.
 permalink: ":title/"
-baseurl:
-url:
+baseurl: 
+url: 
 site-twitter: kentonh
 author: Kenton Hansen
 author-img: kenton_thumb.jpg
 about-author: I make things. I make people make things. Mostly digital things.
 twitter: kentonh
-facebook:
+facebook: 
 github: kentonh
 linkedin: kentonh
 email: himself@kentonhansen.com
-discus-identifier:
-analytics:
+discus-identifier: 
+analytics: 
 markdown: kramdown
 plugins:
 - jekyll-paginate
