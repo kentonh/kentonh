@@ -4,7 +4,7 @@ layout: main
 
 <article class="article-page">
   <div class="page-content">
-    <div class="post-to-home">
+    <div class="to-home">
       <a class="post-to-home" href="/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a><br>
     </div>
     {% if page.img %}
@@ -23,7 +23,6 @@ layout: main
         <div class="page-share">
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
           <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
         </div>
         <div class="page-tag">
           {% for tag in page.tags %}
@@ -31,7 +30,6 @@ layout: main
           {% endfor %}
         </div>
       </div>
-      <!-- {% include disqus.html %}
-    </div> <!-- End Wrap Content -->
+    </div>  <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
