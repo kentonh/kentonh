@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<aside class="sidebar">
+<aside class="sidebar h-card">
   <header>
     <div class="about">
-      <div class="cover-author-image">
+      <div class="cover-author-image u-photo">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
-      <div class="author-name">{{site.author}}</div>
+      <div class="author-name p-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
     </div>
   </header> <!-- End Header -->
@@ -22,7 +22,7 @@ layout: default
           <li><a href="https://twitter.com/kentonh" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.github %}
-          <li class="github"><a href="http://github.com/{{site.github}}" target="_blank" rel="me"><i class="fa fa-github"></i></a></li>
+          <li class="github"><a href="http://github.com/{{site.github}}" target="_blank" ><i class="fa fa-github"></i></a></li>
         {% else %}
           <li class="github"><a href="http://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
         {% endif %}
@@ -32,7 +32,7 @@ layout: default
           <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.email %}
-          <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+          <li class="email u-email"><a href="mailto:{{site.email}}" rel="me"><i class="fa fa-envelope-o"></i></a></li>
         {% else %}
           <li class="email"><a href="mailto:himself@kentonhansen.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         {% endif %}
