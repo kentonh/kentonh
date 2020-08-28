@@ -1,7 +1,6 @@
 ---
 title: BalancedComp Salary Administration SaaS
 date: 2011-07-20 21:00:00 Z
-published: true
 tags:
 - Projects
 - Work

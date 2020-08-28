@@ -1,7 +1,6 @@
 ---
 title: WhatShouldIPayMyCEO.com
 date: 2015-03-20 21:00:00 Z
-published: true
 tags:
 - Projects
 - Work

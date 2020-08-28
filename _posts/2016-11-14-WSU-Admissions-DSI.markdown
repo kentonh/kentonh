@@ -1,18 +1,13 @@
 ---
-layout: post
 title: Scholarship Evaluation Software
-date: 2016-11-15 00:00:00 +0300
-description:  # Add post description (optional)
-img: dsi.jpg # Add image post (optional)
-tags: [Projects, Work, News] # add tag
-published: true
+date: 2016-11-14 21:00:00 Z
 tags:
-  - Projects
-  - Work
-  - News
+- Projects
+- Work
+- News
 layout: post
-description: null
-img: 'dsi.jpg'
+description: 
+img: dsi.jpg
 ---
 
 ## Distinguished Scholar Invitational
