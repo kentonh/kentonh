@@ -14,7 +14,7 @@ img: this-is-how-we-roll.jpg
 
 The shift from "startup" to a company ready for scale is difficult for any discipline, but the Product craft comes with its own specific challanges. Among those is moving the responsiblity of "what to build" from the existing structures into a Product Manager. I was the first person hired to focus on Product, but I was not totally in a greenfield scenario. There were the existing cutrual and tactical expectations that I needed to manuvier.
 
-I'd had the prior expreience doing this as both an external and internal member of the team. In this instance, I used the product manager's greatest tool of empathy to survey and understand the operation before attempting any significant shifts. The work I championed were iterative and primarily grew business intellegence. My goal was to create the knowledge to have more faith in our decision making ability.
+I had the prior expreience doing this as both an external and internal member of the team. In this instance, I used the product manager's greatest tool of empathy to survey and understand the operation before attempting any significant shifts. The work I championed were iterative and primarily grew business intellegence. My goal was to create the knowledge to have more faith in our decision making ability.
 
 Externally, the notable enhancements and added features include:
 
