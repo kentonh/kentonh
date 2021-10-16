@@ -817,7 +817,12 @@ blockquote {
   color: #a0a0a0;
   font-weight: 600;
   font-size: 16px;
-  line-height: 1.15;
+  line-height: 2.15;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ADD8E6;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
 }
 
 pre {

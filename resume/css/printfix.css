@@ -4,6 +4,15 @@
   .header{
     width: 100%;
   }
+  ul{
+    line-height: 1.05em;
+    font-size: 14px;
+  }
+  p{
+    font-size: 14px;
+    font-family: 'Harmattan', sans-serif;
+  }
+
   .col-md-10{
     width: 80%;
     float: right;
@@ -21,4 +30,9 @@
     width: 20%;
     float: left;
   }
+
+  a[href]::after {
+      content: none !important;
+  }
+
 }
