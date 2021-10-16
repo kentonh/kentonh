@@ -4,6 +4,7 @@ date: 2011-07-20 21:00:00 Z
 tags:
 - Projects
 - Work
+- Product Management
 layout: post
 description: 
 img: BC-screenshot.jpg

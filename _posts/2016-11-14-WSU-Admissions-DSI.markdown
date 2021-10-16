@@ -4,7 +4,7 @@ date: 2016-11-14 21:00:00 Z
 tags:
 - Projects
 - Work
-- News
+- Product Management
 layout: post
 description: 
 img: dsi.jpg
