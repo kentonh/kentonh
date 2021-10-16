@@ -5,6 +5,7 @@ tags:
 - Projects
 - Work
 - News
+- Product Management
 layout: post
 description: 
 img: peoplepixel.jpg
@@ -34,4 +35,7 @@ In November, 2017 we were able to use the app with a new arena lighting system t
 
 In February, 2017 Wichita news station KWCH covered the early tests and development of the software.
 
-<iframe src='http://www.kwch.com/templates/2015_Sub_Video_Share?contentObj=414411933' width='970' height='520' frameborder='0' scrolling='no' style='max-width:100%'></iframe>
+<video controls>
+  <source src="/assets/video/PeoplePixel.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>

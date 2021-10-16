@@ -4,7 +4,7 @@ date: 2017-02-20 21:00:00 Z
 tags:
 - Projects
 - Work
-- News
+- Product Management
 layout: post
 description: 
 img: gocreate.jpg
