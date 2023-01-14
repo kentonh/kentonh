@@ -9,7 +9,7 @@ description:
 img: industry.png
 ---
 
-## User Research with enguaged audiences
+## User Research with engaged audiences
 Anyone who doesn't work in games thinks they want to work in games. However, anyone who works in the gaming industry knows that these products create loyalty and engagement like no other industry. How does a product person find the signal in all that noise?
 
 ## INDUSTRY and the Product Collective
