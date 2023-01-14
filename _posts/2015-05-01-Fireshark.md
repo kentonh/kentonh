@@ -1,6 +1,10 @@
 ---
 title: Fireshark - Life-Sized Video Games
 date: 2015-01-07 07:32:20 Z
+tags:
+- News
+- Work
+- Marketing
 layout: post
 description: 
 img: fireshark.jpg
