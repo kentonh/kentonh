@@ -1,0 +1,57 @@
+body{
+  background: linear-gradient(
+    to bottom,
+    #ADD8E6 0px,
+    #ADD8E6 115px,
+    #ffffff 115px,
+    #ffffff 100%
+    );
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Oswald', sans-serif;
+}
+
+p{
+  font-size: 21px;
+  font-family: 'Harmattan', sans-serif;
+}
+
+hr{
+  border: 0;
+  height: 2px;
+  background: #000;
+}
+
+ul{
+  line-height: 2.5em;
+}
+
+.header{
+  margin: 50px auto 10px;
+}
+.header h1{
+  border: 2px #000 solid;
+  padding: 15px;
+  font-size: 40px;
+}
+
+.content h3{
+  border: 2px #000 solid;
+  padding: 10px;
+}
+
+.content a{
+  color: #333;
+  padding: .5%;
+  background: linear-gradient(
+    to bottom,
+    #fff 0px,
+    #fff 50%,
+    #ADD8E6 50%,
+    #ADD8E6 100%
+    )
+}
+.content h5{
+  padding-left: 2px;
+}
